@@ -1,6 +1,3 @@
 # Home_automation
-# Home_automation
 
-
-
-/* A SETUP
+This is basically a project that is based on INTERNET OF THINGS in which we operate any home appliance using GOOGLE ASSISTANT. By this setup, we can just switch on or off any ho,e appliance fro wherever we want. This can also be extended to operate anywhere from the city.
